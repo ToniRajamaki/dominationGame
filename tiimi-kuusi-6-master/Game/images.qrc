@@ -1,0 +1,16 @@
+<RCC>
+    <qresource prefix="/">
+        <file>building_image.png</file>
+        <file>farmimage.png</file>
+        <file>mineimage.png</file>
+        <file>outpostimage.png</file>
+        <file>worker_image.png</file>
+        <file>money.png</file>
+        <file>foodimage.png</file>
+        <file>stoneimage.png</file>
+        <file>woodimage.png</file>
+        <file>oreimage.png</file>
+        <file>npimage.png</file>
+        <file>arrowimage.png</file>
+    </qresource>
+</RCC>
